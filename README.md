@@ -1,2 +1,2 @@
 # Chess
-This is a web version of Chess
+Web implementation of chess. Fully responsive, custom designed board and pieces.
