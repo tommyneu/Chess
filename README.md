@@ -1,2 +1,2 @@
 # Chess
-Web implementation of chess. Fully responsive, custom designed board and pieces.
+Web implementation of Chess. Fully responsive, custom designed board and pieces.
